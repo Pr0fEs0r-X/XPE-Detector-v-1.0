@@ -1,5 +1,5 @@
 # XPE Detector v 1.0 
-XPE Detector es una herramienta de análisis estático de ejecutables (PE) ligera y potente, diseñada para identificar compiladores, protectores (packers) y extraer información relevante de archivos binarios de Windows, ver el codigo en ensamblador y en codigo hexadecimal, detecta tambien  mas de 1832 compiladores.
+XPE Detector es una herramienta de análisis estático de ejecutables (PE) ligera y potente, diseñada para identificar compiladores, protectores (packers) y extraer información relevante de archivos binarios de Windows, ver el codigo en ensamblador y en codigo hexadecimal, detecta tambien  mas de 1832 compiladores. (windows exe)
 
 
 <img width="300" height="300" alt="...." src="https://github.com/user-attachments/assets/79f1b095-c86d-481f-ae02-0b654f1f5d1a" />
