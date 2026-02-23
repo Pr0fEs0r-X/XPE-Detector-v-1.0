@@ -35,22 +35,28 @@ XPE Detector es una herramienta de análisis estático de ejecutables (PE) liger
   - **Calculadora de Hashes:** Genera MD5, SHA-1, SHA-256, SHA-512 y CRC32.
 
 <br>
-<b><h2>🛠️ Requisitos e Instalación</h2></b>
-Dependencias
-
-Para ejecutar el código fuente, necesitas Python 3.x y las siguientes librerías:
-
+<b><h2>🛠️ Requisitos e Instalación</h2></b><br>
+<br><b></b>Dependencias</b>
+<br>
+<br>
+Para ejecutar el código fuente, necesitas:
+<br><br>
+-- Python 3.x 
+<bR><br>
+y las siguientes librerías:
+<br><br>
 
 **pip install pefile capstone**
-
- 
+<br>
+ <br>
 
 Nota: tkinter suele venir instalado por defecto con Python. 
+<br>
 <br><b>Ejecución </b>
 <br>
 - Simplemente ejecuta el script principal:
-<br>
-###**python xpe_detector.py**
+<br><br>
+python xpe_detector.py
 <br>
 <h2>⚙️ Compilación (Generar .EXE)</h2> 
 
