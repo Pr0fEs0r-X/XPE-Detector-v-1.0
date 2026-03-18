@@ -128,16 +128,14 @@ Formato del archivo UserDB.TXT:<br> <img width="288" height="199" alt="Captura" 
 
 <bR>
 
-<h1>👨‍💻 Autor </h1>
+## 👤 Autor y Empresa
 
-<b>Rodolfo Hernandez Baz
-Proyecto: Rhino Toolkit 2026 </b>
+Desarrollado con fines educativos y de seguridad informática.
 
-<h3>Si encuentdas esta herramienta útil, siéntete libre de dejar una estrella ⭐ en el repositorio. </h3>
-<br>
-<b></b>📜 Licencia </b>
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles. 
+*   **Creador:** [Rodolfo Hernandez Baz](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X)
+*   **Compañía:** [Rhino Forensic & Reverse Toolkit v 1.0](https://rhinosecurity.xyz/)
+```
 
 
 
